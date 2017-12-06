@@ -9,3 +9,9 @@
  
  
  
+USER FEEDBACK
+
+I really enjoyed using this visual. The instructions were easy to follow and I enjoyed being able to choose from an array of preset visuals, as well as having the ability to experiment with the different options that allowed me to create a custom visual. The recommended song list was really useful and helped me find a song that’s components would really make the visual “pop”. I would suggest to add the download file for OSC, Soundflower images to better understand the nunchuck and Wii remote orientation controls controls.
+
+
+-Allison Frenz (Co-worker)
